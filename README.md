@@ -45,3 +45,10 @@ Antes de começar, certifique‑se de ter instalado:
 ```bash
 git clone https://github.com/GuOMartins/Assistente_IA_Suporte_Python_API_LLM.git
 cd Assistente_IA_Suporte_Python_API_LLM
+
+## 🚀 Como executar
+
+1. Crie e ative um ambiente virtual (conda ou venv).
+2. Instale as dependências com `pip install -r requirements.txt`.
+3. Configure sua chave da Groq no arquivo `.env`.
+4. Execute `streamlit run dsa_assistente.py`.
